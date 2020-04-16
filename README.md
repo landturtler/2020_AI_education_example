@@ -12,7 +12,8 @@ git 주소 :    https://github.com/digicope/ai04
 
 ### - GitHub의 주피터 노트북 파일 다운로드 방법
 https://datascience.stackexchange.com/questions/35555/how-to-download-a-jupyter-notebook-from-github
-git에서 노트북 파일을 클릭하고 --> Raw 버튼 클릭  --> Ctrl + S 로 저장  --> 저장시 확장자 .txt를 없애준다 --> 주피터노트북에서 읽어온다
+
+#### git에서 노트북 파일을 클릭하고 --> Raw 버튼 클릭  --> Ctrl + S 로 저장  --> 저장시 확장자 .txt를 없애준다 --> 주피터노트북에서 읽어온다
 
  
 #### ------------------------------------------------------------------------------------------------------------------------
