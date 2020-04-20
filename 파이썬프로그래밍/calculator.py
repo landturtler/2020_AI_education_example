@@ -29,7 +29,7 @@ class Calc:
         self.c = a / b
         return self.c
 
-# print('나는 모듈입니다')
+print('나는 모듈입니다')
 
 if __name__ == '__main__':
     m1 = Calc()
