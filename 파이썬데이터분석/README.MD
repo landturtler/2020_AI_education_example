@@ -3,3 +3,9 @@
 
 ### scipy 홈페이지
 https://scipy.org/
+
+### numpy 홈페이지
+http://www.numpy.org
+
+### pandas 홈페이지
+https://pandas.pydata.org/
