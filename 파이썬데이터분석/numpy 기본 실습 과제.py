@@ -27,50 +27,27 @@ print('-'*80)
 # 1.4 2차원을 1차원 배열의 형태로 변형하여 출력하세요
 print(d.flatten())
 
-print('-'*80)
-# 2. numpy를 사용하여 아래 두개의 행렬을 만들고 지시대로 출력해보세요
-a = np.arange(16).reshape(4,4)
-print(a)
-b = a*2
-# 2.1 두개의 행렬을 수평으로 합쳐 결과를 출력하세요
-h = np.hstack((a,b))
-print(h)
-print('-'*80)
-# 2.2 두개의 행렬을 수직으로 합쳐 결과를 출력하세요
-v = np.vstack((a,b))
-print(v)
-print('-'*80)
-# 2.3 두개의 행렬을 열로 합쳐 결과를 출력하세요
-c = np.column_stack((a,b))
-print(c)
 
-print('-'*80)
-# 2.4 두개의 행렬을 행으로 합쳐 결과를 출력하세요
-c = np.row_stack((a, b))
-print(c)
-print('-'*80)
-
-
-# 3번
+# 2번
 face = scipy.misc.face()   # face: read only
 face01 = face.copy()        # face01: read and write 가능
 face02 = face.copy()        # face02: read and write 가능
 face03 = face.copy()        # face03: read and write 가능
 face04 = face.copy()        # face04: read and write 가능
 
-# 3.1  Red 색상을 모두 0 으로 변경하여 출력한다
+# 2.1  Red 색상을 모두 0 으로 변경하여 출력한다
 # face01[:,:,0] = 0
 face01[face[:,:,0] < 100 ] = 255
 
-# 3.2  Green 색상을 모두 0 으로 변경하여 출력한다
+# 2.2  Green 색상을 모두 0 으로 변경하여 출력한다
 face02[:,:,1] = 0
 face02[face[:,:,1] < 100 ] = 255
 
-# 3.3  Blue 색상을 모두 0 으로 변경하여 출력한다
+# 2.3  Blue 색상을 모두 0 으로 변경하여 출력한다
 face03[:,:,2] = 0
 face03[face[:,:,0] > 100 ] = 255
 
-# 3.4  Red, Green, Blue 색상 중  100보다 작은 경우
+# 2.4  Red, Green, Blue 색상 중  100보다 작은 경우
 # 모두 0 으로 변경하여 출력한다
 #
 time_start = time.time()
@@ -104,4 +81,26 @@ plt.imshow(face03)
 plt.subplot(224)
 plt.imshow(face04)
 plt.show()
+
+print('-'*80)
+# 3. numpy를 사용하여 아래 두개의 행렬을 만들고 지시대로 출력해보세요
+a = np.arange(16).reshape(4,4)
+print(a)
+b = a*2
+# 3.1 두개의 행렬을 수평으로 합쳐 결과를 출력하세요
+h = np.hstack((a,b))
+print(h)
+print('-'*80)
+# 3.2 두개의 행렬을 수직으로 합쳐 결과를 출력하세요
+v = np.vstack((a,b))
+print(v)
+print('-'*80)
+# 3.3 두개의 행렬을 열로 합쳐 결과를 출력하세요
+c = np.column_stack((a,b))
+print(c)
+
+print('-'*80)
+# 3.4 두개의 행렬을 행으로 합쳐 결과를 출력하세요
+c = np.row_stack((a, b))
+print(c)
 
