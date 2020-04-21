@@ -9,3 +9,6 @@ http://www.numpy.org
 
 ### pandas 홈페이지
 https://pandas.pydata.org/
+
+
+pd.set_option('display.max_rows', 500)
