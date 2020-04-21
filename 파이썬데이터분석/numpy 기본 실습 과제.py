@@ -36,7 +36,7 @@ face03 = face.copy()        # face03: read and write 가능
 face04 = face.copy()        # face04: read and write 가능
 
 # 2.1  Red 색상을 모두 0 으로 변경하여 출력한다
-# face01[:,:,0] = 0
+face01[:,:,0] = 0
 face01[face[:,:,0] < 100 ] = 0
 
 # 2.2  Green 색상을 모두 0 으로 변경하여 출력한다
