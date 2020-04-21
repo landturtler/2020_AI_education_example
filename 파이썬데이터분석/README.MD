@@ -11,4 +11,5 @@ http://www.numpy.org
 https://pandas.pydata.org/
 
 
+#### Pandas: Setting no. of max rows in ipython notebook
 pd.set_option('display.max_rows', 500)
