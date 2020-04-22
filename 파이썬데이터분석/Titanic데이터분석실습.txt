@@ -1,0 +1,74 @@
+[ Titanic 생존자 데이터셋 실습 과제 ]
+
+1. 아래와 같이 titanic 데이터 셋을 아래와 같이 읽어와서
+   처리하는 코드를 구현하세요
+
+  import seaborn as sb
+  titanic = sb.load_dataset('titanic')
+  
+  - 컬럼 
+  ◾Survived: 생존 여부 => 0 = No, 1 = Yes
+  ◾pclass: 티켓 등급 => 1 = 1st, 2 = 2nd, 3 = 3rd
+  ◾Sex: 성별
+  ◾Age: 나이
+  ◾Sibsp: 함께 탑승한 형제자매, 배우자의 수
+  ◾Parch: 함께 탑승한 부모, 자식의 수
+  ◾Ticket: 티켓 번호
+  ◾Fare: 운임
+  ◾Cabin: 객실 번호
+  ◾Embarked: 탑승 항구 => C = Cherbourg, Q = Queenstown, S = Southampton
+
+  
+  1.1 titanic_new.csv로 저장하고 컬럼별 통계를 출력하세요
+  
+  1.2 결측치를 평균값으로 수정하여 titanic_new_no_nan.csv 로 저장하세요
+  
+  1.3 생존자와 사망자의 수를 각각 구하세요
+  
+  1.4 등급별(pclass) 평균 생존률을 구하시오
+  
+  1.5 성별(sex) 평균 생존률을 구하시오
+
+  1.6 연령별(age) 평균 생존률을 구하시오
+
+  1.7 sibsp(가족과 탑승)의 평균 생존률을 구하시오
+  
+  1.8 등급별 티켓 비용(fare)의 평균을 구하시오
+  
+  1.9 deck 칼럼을 삭제하여 새 데이터 프레임에 할당하고
+      결과를 출력하세요 
+      
+  1.10 pandas의 qcut()을 사용하여 나이를 'age_class' 이름으로 
+       3등급('young','middle','old')으로 나누고 
+       index를 'sex'와 'age_class'로 columns을 'pclass'로 하는
+       3등급별(pclass) 평균 생존률을 구하시오
+       
+       <출력결과>
+       
+         pclass                   1         2         3
+         sex    age_class                              
+         female young      0.954545  1.000000  0.508475
+                midlle     0.947368  0.909091  0.481481
+                old        0.977273  0.857143  0.250000
+         male   young      0.500000  0.357143  0.158879
+                midlle     0.500000  0.076923  0.195652
+                old        0.347826  0.062500  0.055556       
+                
+                
+                
+2. 시각화 실습문제
+
+   2.1 생존자와 사망자의 수를 pie 차트로 그리시오(matplotlib)
+
+   2.2 등급별 티켓 비용(fare)의 평균을  barplot으로 그리시오(seaborn)
+
+   2.3 성(Sex)별 생존자와 사망자의 수를 countplot 으로 그리시오(seaborn)
+
+   2.4 전체 상관 계수를 heatmap을 출력하시요 (seaborn)
+
+   2.5 나이(age) 분포도(distplot)를 그리시오 (seaborn)
+       결측치는 평균값으로 수정
+
+   2.6 객실의 등급(pclass)별 'age'의 분포를 boxplot으로 그리시오(seaborn)
+
+   

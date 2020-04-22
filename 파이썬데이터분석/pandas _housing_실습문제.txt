@@ -1,0 +1,80 @@
+* pandas 실습
+
+[과제 1] :  Boston Housing Data Set 통계 출력하기
+https://www.guru99.com/linear-regression-tensorflow.html  사이트에 접속하여
+상단의 Download Boston DataSet  을 눌러 boston_train.zip 을 다운 받고 압축 해제한다
+boston_train.csv 파일을 워드패드나 메모장으로 열어서 데이터 크기 정보를 나타내는 처음 두개 데이터(400,9)를 삭제하고
+다시 저장한다음 파이썬 프로젝트 작업 디렉토리에 복사해 놓는다
+boston_train.csv 파일을 pandas로 읽어서 데이터프레임의 통계를 출력하는 코드를 구현하세요
+
+[과제 2] :  Boston Housing Data Set 조건 검색 출력
+boston_train.csv 파일을 사용하여 불리언 조건 검색 결과를 
+데이터 프레임으로 출력하는 코드를 구현하세요
+  2.1  'CRIM' 열의 평균값 보다 큰 값들만 출력
+  2.2  'AGE' 열의 평균값 보다 작은 값들만 출력
+  2.3  'MEDV' 열의 중앙값 보다 작은 값들만 출력
+
+
+[과제 3] :  Boston Housing Data Set 데이터 연쇄하기
+boston_train.csv 파일과 boston_test.csv 파일을 pandas로 모두 읽어서 
+boston_train.csv  에서는 처음 10개 행과  boston_test.csv 의 처음
+10개 행을 차례대로 하나로 합쳐
+결과를 출력하고 boston_batch.csv 파일로 인덱스 값을 제외하고
+저장하는 코드를 구현하세요
+
+[과제 4] :  Boston Housing Data Set 열의 통계 출력
+boston_train.csv 파일을 각 열(총 10개)에 대한 통계를 출력하는 코드를 구현하세요
+sum,mean,median,min,max를 출력시킨다
+
+[과제 5] :  sunspot.csv 데이터의 NaN 데이터의 갯수를 열마다 출력 시키고
+NaN 값을 모두 0으로 변경하고 다시 NaN 데이터의 갯수를 열마다 출력 시키고
+수정된 데이터프레임을 sunspot_new.csv 로 저장하는 프로그램을 작성하세요     
+            
+
+[과제 6] sunspot.csv 데이터를 읽어와서 'Date' 컬럼을 to_datetime()을 사용하여
+문자열을 날짜로 변환 시키고 데이터프레임의 .dtypes 속성을 사용하여
+데이터 타입을 확인해본다 'Date' 컬럼의 평균보다 큰 값만 추출하여
+수정된 데이터프레임을 sunspot_new2.csv 로 저장한다
+
+[과제 7] 아래 두개의 데이터 프레임을 만들어 merge()로 통합하세요(inner)
+        <1>
+           판매월  제품A  제품B
+          0  1월  100   90
+          1  2월  150  110
+          2  3월  200  140
+          3  4월  130  170
+        <2>
+           판매월  제품C  제품D
+          0  1월  112   90
+          1  2월  141  110
+          2  3월  203  140
+          3  4월  134  170
+
+[과제 8] 아래 두개의 데이터 프레임을 만들어 merge()로 통합하세요
+        <1>
+            key  left
+          0   A     1
+          1   B     2
+          2   C     3
+
+        <2>
+            key  right
+          0   A      4
+          1   B      5
+          2   D      6
+          
+  8.1 how='inner'를 사용하여 병합
+  8.2 how='outer'를 사용하여 병합
+  8.3 how='left'를 사용하여 병합
+  8.4 how='right'를 사용하여 병합
+
+ [과제 9] WHO_first9cols.csv 파일을 읽어서
+ 
+  9.1 'Country' 컬럼의 값이 'Albania' 인 행을 Series객체의 
+       contains() 메서드로 검색해서 해당 행을 출력하세요
+  9.2 'Country' 컬럼의 값이 'Ethiopia' 인 행을 Series객체의
+       contains() 메서드로 검색해서 해당 행을 출력하세요
+
+
+
+       
