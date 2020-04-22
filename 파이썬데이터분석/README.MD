@@ -15,8 +15,10 @@ https://pandas.pydata.org/
 pd.set_option('display.max_rows', 500)
 
 
+####
+####
 
-=================================
+=====================================================
 - merge() 예제 리스트 데이터셋
 
 employee = [{'empno':1, 'ename':'kim', 'dept':1}, 
@@ -39,3 +41,27 @@ info =[{'empno':1, 'addr':'서울시','phone':'010-1111-1111'},
        {'empno':5, 'addr':'광주시','phone':'010-4444-4444'},
        {'empno':4, 'addr':'광주시','phone':'010-5555-5555'} ]
        
+
+
+####
+####
+
+=================================================
+- grouby() 와 pivot_table() 예제 데이터셋
+
+from numpy.random import seed
+
+from numpy.random import rand
+
+from numpy.random import randint
+
+seed(42)
+
+df = pd.DataFrame({
+   'Weather' : ['cold', 'hot', 'cold', 'hot',
+   'cold', 'hot', 'cold'],
+   
+   'Food' : ['soup', 'soup', 'icecream', 'chocolate',
+   'icecream', 'icecream', 'soup'],
+   
+   'Price' : 10 * rand(7), 'Number' : randint(1, 9, 7)})
