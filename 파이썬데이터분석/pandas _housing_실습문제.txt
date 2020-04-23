@@ -1,10 +1,6 @@
 * pandas 실습
 
 [과제 1] :  Boston Housing Data Set 통계 출력하기
-https://www.guru99.com/linear-regression-tensorflow.html  사이트에 접속하여
-상단의 Download Boston DataSet  을 눌러 boston_train.zip 을 다운 받고 압축 해제한다
-boston_train.csv 파일을 워드패드나 메모장으로 열어서 데이터 크기 정보를 나타내는 처음 두개 데이터(400,9)를 삭제하고
-다시 저장한다음 파이썬 프로젝트 작업 디렉토리에 복사해 놓는다
 boston_train.csv 파일을 pandas로 읽어서 데이터프레임의 통계를 출력하는 코드를 구현하세요
 
 [과제 2] :  Boston Housing Data Set 조건 검색 출력
