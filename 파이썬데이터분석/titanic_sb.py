@@ -7,13 +7,6 @@ import seaborn as sb
 import numpy as np
 import matplotlib.pyplot as plt
 
-# 한글 출력을 위한 설정
-import matplotlib
-matplotlib.rcParams['font.family']="Malgun Gothic"
-matplotlib.rcParams['axes.unicode_minus'] = False
-
-titanic = sb.load_dataset('titanic')
-
 
 # 한글 출력을 위한 설정
 import matplotlib
