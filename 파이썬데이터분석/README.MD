@@ -10,7 +10,7 @@ http://www.numpy.org
 ### pandas 홈페이지
 https://pandas.pydata.org/
 
-### 머신러닝 수학 
+### 인공지능을 위한 기초수학
 http://matrix.skku.ac.kr/math4ai/
 
 #### Pandas: Setting no. of max rows in ipython notebook
