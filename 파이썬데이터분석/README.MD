@@ -10,6 +10,8 @@ http://www.numpy.org
 ### pandas 홈페이지
 https://pandas.pydata.org/
 
+### 머신러닝 수학 
+http://matrix.skku.ac.kr/math4ai/
 
 #### Pandas: Setting no. of max rows in ipython notebook
 pd.set_option('display.max_rows', 500)
