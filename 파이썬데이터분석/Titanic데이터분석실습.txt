@@ -57,8 +57,8 @@
                 
                 
 2. 시각화 실습문제
-    [참고] 
->> https://kaggle-kr.tistory.com/17
+
+    [참고 사이트]  https://kaggle-kr.tistory.com/17
 
     
    2.1 생존자와 사망자의 수를 pie 차트로 그리시오(matplotlib)
