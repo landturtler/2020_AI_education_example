@@ -9,3 +9,7 @@
 - UCI Machine Learning Repository
     
     https://archive.ics.uci.edu/ml/index.php
+    
+    
+- 데이콘 (경진대회)   
+    https://dacon.io/
