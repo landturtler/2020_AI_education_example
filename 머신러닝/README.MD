@@ -13,3 +13,9 @@
     
 - 데이콘 (경진대회)   
     https://dacon.io/
+    
+    
+### 딥러닝 강좌  
+
+- 모두를 위한 머신러닝과 딥러닝의 강의(김성훈교수님)
+    https://hunkim.github.io/ml/
