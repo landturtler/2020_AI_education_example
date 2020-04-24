@@ -6,7 +6,7 @@
     https://www.kaggle.com/
 
 
-- UCI Machine Learning Repository
+- UCI Machine Learning Repository (머신러닝 데이터)
     
     https://archive.ics.uci.edu/ml/index.php
     
