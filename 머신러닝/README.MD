@@ -14,7 +14,9 @@
     
 - 데이콘 (경진대회)   
     https://dacon.io/
-    
+
+- 조대협의 블로그
+    https://bcho.tistory.com/tag/F1%20score
     
 #### 딥러닝 강좌  
 
