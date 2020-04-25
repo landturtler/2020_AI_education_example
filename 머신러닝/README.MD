@@ -40,17 +40,17 @@ weight의 초기값을 제대로 설정하면 깊은 신경망학습이 가능�
 ####
 ### 머신 러닝 개념
 #### 인공지능(AI) 분류
-[1] 규칙기반 AI : rule-based system , 수동으로 규칙(특징)을 입력하면 기계가 추론, Prolog, LISP
-[2] 학습기반 AI : 머신 러닝(Machine Learning), 데이터를 입력하면 기계가 스스로 새로운 특징을 학습하고 예측
+* [1] 규칙기반 AI : rule-based system , 수동으로 규칙(특징)을 입력하면 기계가 추론, Prolog, LISP
+* [2] 학습기반 AI : 머신 러닝(Machine Learning), 데이터를 입력하면 기계가 스스로 새로운 특징을 학습하고 예측
 
 #### 머신러닝 분류
-[1] 지도학습(Supervised Learning) : 답이 주어진 상태에서 학습
+* [1] 지도학습(Supervised Learning) : 답이 주어진 상태에서 학습
 회귀(Regression)
 분류(Classification)
-[2] 비지도학습(Unsupervised Learning) : 답을 모르고 학습
+* [2] 비지도학습(Unsupervised Learning) : 답을 모르고 학습
 군집화(Clustering)
 차원 축소(Dimension Reduction) : PCA(주성분 분석, Pricipal Component Analysis)
-[3] 강화 학습(Reinforcement Learning) : 답을 모르고 있는 상태에서 답을 알아가는 강한 인공지능(자아를 갖음, 인간수준)
+* [3] 강화 학습(Reinforcement Learning) : 답을 모르고 있는 상태에서 답을 알아가는 강한 인공지능(자아를 갖음, 인간수준)
 게임, 알파고(DQN)
 
 #### 회귀(Reression) 모델
