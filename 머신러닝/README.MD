@@ -21,8 +21,8 @@
 
     https://hunkim.github.io/ml/
 
-
-인공지능의 역사 : 신경망(DNN,Deep Neural Net) 역사
+#### 
+#### 인공지능의 역사 : 신경망(DNN,Deep Neural Net) 역사
 * (1) 퍼셉트론 : 다수의 신호를 입력받아서 하나의 신호로 출력, 신경망의 기원이 되는 알고리즘,
 Frank Rosenblatt(1957,Cornell Aeronautical Lab 알고리즘 개발)
 * (2) XOR Problem : Marvin Minsky(1969,MIT AI Lab founder)
