@@ -35,3 +35,31 @@ Frank Rosenblatt(1957,Cornell Aeronautical Lab 알고리즘 개발)
 * (5) Deep의 출현 : 2006년 , Geoffrey Hinton, "A fast learning algorithm for deep belief nets" 라는 논문
 weight의 초기값을 제대로 설정하면 깊은 신경망학습이 가능하다 neural networke 대신 Deep Network, Deep Learning 이라는 용어가 사용되기 시작했다.
 
+
+
+####
+#### 머신 러닝 개념
+인공지능(AI) 분류
+[1] 규칙기반 AI : rule-based system , 수동으로 규칙(특징)을 입력하면 기계가 추론, Prolog, LISP
+[2] 학습기반 AI : 머신 러닝(Machine Learning), 데이터를 입력하면 기계가 스스로 새로운 특징을 학습하고 예측
+머신러닝 분류
+[1] 지도학습(Supervised Learning) : 답이 주어진 상태에서 학습
+회귀(Regression)
+분류(Classification)
+[2] 비지도학습(Unsupervised Learning) : 답을 모르고 학습
+군집화(Clustering)
+차원 축소(Dimension Reduction) : PCA(주성분 분석, Pricipal Component Analysis)
+[3] 강화 학습(Reinforcement Learning) : 답을 모르고 있는 상태에서 답을 알아가는 강한 인공지능(자아를 갖음, 인간수준)
+게임, 알파고(DQN)
+회귀(Reression) 모델
+선형회귀(Linear Regrssion) : 1차 함수, 직선의 방정식
+가중치(Weight) : 입력변수가 출력에 영향을 미치는 정도를 설정, 기울기 값
+편향(Bias) : 기본 출력 값이 활성화되는 정도를 설정, y 절편
+비용함수(Cost function) : 2차 함수, 포물선의 방정식
+cost(비용) = 오차 = 에러 = 손실(loss)
+cost(W,b) = (H(x) - y)^2
+예측(가설,Hypothesis) 함수: predict
+H(x) = WX + b
+경사하강법(Gradient Descent algorithm)
+비용이 가장 작은 기울기 값을 구하는 알고리즘
+
