@@ -1,6 +1,6 @@
 [Graphviz 설치 방법:윈도우]
 
-- Mac 사용자는다음 사이트에서 Mac용 설치방법을 참조한다
+- Mac 사용자는 다음 사이트에서 Mac용 설치방법을 참조한다
    https://graphviz.gitlab.io/download/
 
 
