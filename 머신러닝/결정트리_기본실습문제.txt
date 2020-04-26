@@ -1,0 +1,11 @@
+[ 결정 트리 Decision Tree 기본 실습 문제]
+
+[1] DecisionTreeClassifier 를 이용한 예측 모델 구현
+"balance-scale.csv" 파일을 읽어와서 train 데이터와 test 데이터의 비율을 
+70% 와 30% 비율로 쪼개서 DecisionTreeClassifier 을 사용하여 train 데이터를
+학습 시키고 test 데이터를 이용하여 정확도를 측정하는 코드를 구현하세요
+
+[2] GraphViz를 사용하여 학습 모델을 그래프로 출력시키고
+max_depth,  min_samples_split, min_samples_leaf 값을 각각 수정하면서 
+정확도가 영향을 받는(정확도가 변하는) 값의 경계를 구하시요
+
