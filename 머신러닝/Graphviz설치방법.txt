@@ -1,0 +1,29 @@
+[Graphviz 설치 방법:윈도우]
+
+- Mac 사용자는다음 사이트에서 Mac용 설치방법을 참조한다
+   https://graphviz.gitlab.io/download/
+
+[1] 윈도우즈 환경에서 아래 사이트에서  graphviz-2.38.msi 파일을 다운 로드하여 설치한다
+ https://graphviz.gitlab.io/_pages/Download/Download_windows.html
+
+[2] 윈도우즈 환경 변수 추가 : 사용자 변수와 시스템 변수 두 개 모두 추가해 주어야한다
+#  파일 탐색기 창 실행 --< 좌측 '내 PC' 우클릭 하고 메뉴에서 '속성' 선택-->좌측에서 '고급시스템 설정' 클릭 -->
+#   시스템 속성 창에서 하단의 '환경변수' 버튼 클릭
+
+# 사용자 변수에서 스크롤해서  Path를 선택하고 '편집' 버튼을 누르고 '새로만들기' 버튼을 누르고
+# 'C:\Program Files (x86)\Graphviz2.38\bin'를 붙여 넣고 하단의 '확인' 버튼을 누른다
+
+# 시스템 변수에서 스크롤해서 Path를 선택하고 '편집' 버튼을 누르고 '새로만들기' 버튼을 누르고
+# 'C:\Program Files (x86)\Graphviz2.38\bin\dot.exe'를 붙여 넣고 하단의 '확인' 버튼을 누른다
+# 연속 '확인' 버튼을 눌러 환경 변수 설정 창을 모두 닫는다
+
+[3] 파이썬 래퍼 모듈 설치
+Anaconda 콘솔창을 관리자 권한으로 실행시키고 아래와같이  4가지 모두 설치한다
+
+pip install pyparsing
+pip install graphviz
+pip install pydot
+conda install graphviz
+
+
+[4] 열어논 노트북을 모두 닫고 쥬피터 노트북 커널(서버)를 다시 시작한다음 노트북 파일을 열어 실행시켜본다
