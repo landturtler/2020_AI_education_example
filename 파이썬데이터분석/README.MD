@@ -16,7 +16,11 @@ http://matrix.skku.ac.kr/math4ai/
 #### Pandas: Setting no. of max rows in ipython notebook
 pd.set_option('display.max_rows', 500)
 
-
+#### 그래프를 노트북 화면 내부에 출력
+ %matplotlib inline 
+#### 그래프를 노트북 화면 외부에 출력 
+ %matplotlib qt      
+ 
 ####
 ####
 
