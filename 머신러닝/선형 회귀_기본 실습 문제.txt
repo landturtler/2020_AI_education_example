@@ -1,11 +1,14 @@
 [ 선형 회귀 (Linear Regression) 기본 실습 문제]
 
-[1] LinearRegression을 이용한 예측 모델 구현
+[1] LinearRegression을 이용한 회귀 예측 모델 구현
 "cars.csv" 파일을 읽어와서  scikit-learn의 LinearRegression 을 사용하여 
 학습 시키고 RMSE를 측정하는 코드를 구현하세요
 cars.csv 데이터 셋의  컬럼 'speed'는 속력이고 , 'dist'는 속력에 따른 제동거리이다
 
 원본 데이터를 matplot을 사용하여 그래프로 출력하여 데이터 분포를 알아본다
-학습모델을 구현하고 예측하여 RMSE와 R2 score를 출력한다
 원본 데이터와 예측 함수의 직선을 하나의 그래프로 출력하여 비교한다
+학습모델을 구현하고 예측하여 RMSE와 R2 score를 출력한다
+
+
+
 
