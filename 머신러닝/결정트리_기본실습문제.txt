@@ -1,22 +1,20 @@
 [ 결정 트리 Decision Tree 기본 실습 문제]
 
 [1] DecisionTreeClassifier 를 이용한 예측 모델 구현
-"balance-scale.csv" 파일을 읽어와서 train 데이터와 test 데이터의 비율을 
-70% 와 30% 비율로 쪼개서 DecisionTreeClassifier 을 사용하여 train 데이터를
-학습 시키고 test 데이터를 이용하여 정확도를 측정하는 코드를 구현하세요
-
-accuracy_score 와 classification_report 를 사용하여 정확도를 구한다
-(옵션 :LabelEncoder를 사용하여 'B'를 숫자형으로 변환하여 'label' 컬럼으로 추가한다)
+    "balance-scale.csv" 파일을 읽어와서 train 데이터와 test 데이터의 비율을 
+    70% 와 30% 비율로 쪼개서 DecisionTreeClassifier 을 사용하여 train 데이터를
+    학습 시키고 test 데이터를 이용하여 정확도를 측정하는 코드를 구현하세요
+    accuracy_score 와 classification_report 를 사용하여 정확도를 구한다
 
 
 [2] 학습 모델을 'balance_tree.dot"으로 저장하고  GraphViz를 사용하여 그래프로 출력시키고
-파라메터 max_depth,  min_samples_split, min_samples_leaf 값을 각각 수정하면서 
-정확도의 변화를 비교 관찰해보세요
-컬럼 별 feature importance값도 출력 시키세요
+    파라메터 max_depth,  min_samples_split, min_samples_leaf 값을 각각 수정하면서 
+    정확도의 변화를 비교 관찰해보세요  
+    컬럼 별 feature importance값도 그래프로 출력하세요
 
 
 [3] LabelEncoder를 사용하여 1번 과제 "balance-scale.csv" 파일의 예측 모델을 구현하세요
-   LabelEncoder를 사용하여 컬럼 'B'의 데이터를 숫자형으로 인코딩하여 새로운 컬럼 'label'을 추가한다
-   train 데이터와 test 데이터의 비율을 70% 와 30% 비율로 쪼개서 DecisionTreeClassifier 을 사용하여 train 데이터를
-   학습 시키고 test 데이터를 이용하여 정확도를 측정하는 코드를 구현하세요
+    LabelEncoder를 사용하여 컬럼 'B'의 데이터를 숫자형으로 인코딩하여 새로운 컬럼 'label'을 추가한다
+    train 데이터와 test 데이터의 비율을 70% 와 30% 비율로 쪼개서 DecisionTreeClassifier 을 사용하여 train 데이터를
+    학습 시키고 test 데이터를 이용하여 정확도를 측정하는 코드를 구현하세요
    
