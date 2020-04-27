@@ -11,7 +11,7 @@ accuracy_score 와 classification_report 를 사용하여 정확도를 구한다
 
 [2] 학습 모델을 'balance_tree.dot"으로 저장하고  GraphViz를 사용하여 그래프로 출력시키고
 파라메터 max_depth,  min_samples_split, min_samples_leaf 값을 각각 수정하면서 
-정확도의 변화를 관찰하세요
+정확도의 변화를 비교 관찰해보세요
 컬럼 별 feature importance값도 출력 시키세요
 
 
@@ -19,5 +19,5 @@ accuracy_score 와 classification_report 를 사용하여 정확도를 구한다
    LabelEncoder를 사용하여 컬럼 'B'의 데이터를 숫자형으로 인코딩하여 새로운 컬럼 'label'을 추가한다
    train 데이터와 test 데이터의 비율을 70% 와 30% 비율로 쪼개서 DecisionTreeClassifier 을 사용하여 train 데이터를
    학습 시키고 test 데이터를 이용하여 정확도를 측정하는 코드를 구현하세요
-   LabelEncoder 미사용시와 정확도를 구별하여 보세요
+   LabelEncoder 미사용시와 정확도를 비교하여 보세요
 
