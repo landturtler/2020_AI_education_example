@@ -9,7 +9,7 @@
 
 [2] 학습 모델을 'balance_tree.dot"으로 저장하고  GraphViz를 사용하여 그래프로 출력시키고
     파라메터 max_depth,  min_samples_split, min_samples_leaf 값을 각각 수정하면서 
-    정확도의 변화를 비교 관찰해보세요 (이부분은 답안에 없음) 
+    정확도의 변화를 비교 관찰해보세요 (파라메터 비교 부분은 답안에 없음) 
     컬럼 별 feature importance값도 그래프로 출력하세요
 
 
