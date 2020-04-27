@@ -5,10 +5,12 @@
 70% 와 30% 비율로 쪼개서 DecisionTreeClassifier 을 사용하여 train 데이터를
 학습 시키고 test 데이터를 이용하여 정확도를 측정하는 코드를 구현하세요
 
-LabelEncoder를 사용하여 'B'를 숫자형으로 변환하여 'label' 컬럼으로 추가한다
 accuracy_score 와 classification_report 를 사용하여 정확도를 구한다
+(옵션 :LabelEncoder를 사용하여 'B'를 숫자형으로 변환하여 'label' 컬럼으로 추가한다)
+
 
 [2] 학습 모델을 'balance_tree.dot"으로 저장하고  GraphViz를 사용하여 그래프로 출력시키고
 max_depth,  min_samples_split, min_samples_leaf 값을 각각 수정하면서 
 정확도가 영향을 받는(정확도가 변하는) 값의 경계를 구하시요
+컬럼 별 feature importance값도 출력 시키세요
 
