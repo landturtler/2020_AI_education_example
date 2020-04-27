@@ -10,7 +10,7 @@ accuracy_score 와 classification_report 를 사용하여 정확도를 구한다
 
 
 [2] 학습 모델을 'balance_tree.dot"으로 저장하고  GraphViz를 사용하여 그래프로 출력시키고
-max_depth,  min_samples_split, min_samples_leaf 값을 각각 수정하면서 
+파라메터 max_depth,  min_samples_split, min_samples_leaf 값을 각각 수정하면서 
 정확도의 변화를 관찰하세요
 컬럼 별 feature importance값도 출력 시키세요
 
