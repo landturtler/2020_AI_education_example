@@ -10,7 +10,7 @@ cars.csv 데이터 셋의  컬럼 'speed'는 속력이고 , 'dist'는 속력에 
 학습모델을 구현하고 예측하여 RMSE와 R2 score를 출력한다
 
 
-[2] LinearRegression 실전 연습 ( 정답 제공 하지 않음)
+[2] LinearRegression 실전 연습 ( 정답 없음 )
 아래 UCI Machine Learning Repository 사이트에서 Regression 데이터를 임의로 선택하여 다운 받아서
 scikit-learn의 LinearRegression 을 사용하여 학습 시키고 예측과 RMSE를 측정하는 코드를 구현하세요
 학습모델을 구현하고 예측하여 RMSE와 R2 score를 출력한다
