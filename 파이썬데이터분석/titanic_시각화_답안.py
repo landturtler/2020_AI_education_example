@@ -73,3 +73,17 @@ plt.text(2,t2, round(t2,2))
 
 plt.title('2.6 Titanic pclass/age - boxplot')
 plt.show()
+
+
+# matplotlib 사용
+df1 = pd.DataFrame(titanic['pclass'])
+df1['age'] = titanic['age']
+df1['age'] = df1['age'].fillna(0)
+cl1 = df1['age'][df1['pclass'] == 1] 
+cl2 = df1['age'][df1['pclass'] == 2]
+cl3 = df1['age'][df1['pclass'] == 3]
+
+plt.boxplot([cl1,cl2,cl3])
+plt.xlabel('pclass')
+plt.ylabel('age')
+plt.show()
