@@ -18,7 +18,7 @@ scikit-learn의 LinearRegression 을 사용하여 학습 시키고 예측과 RMS
 https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table
 
 [추천 데이터 셋]
-Computer Hardware Data Set : ta Set : 컴퓨터 하드웨어 상대적 성능 예측
+Computer Hardware Data Set : 컴퓨터 하드웨어 상대적 성능 예측
 Wine Quality : Wine 품질 예측
 Solar Flare Data Set : 태양 불꽃 발산 예측
 Forest Fires Data Set : 산불 화재 면적 예측
