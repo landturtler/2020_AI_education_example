@@ -1,7 +1,8 @@
-# AI 기본과정 과제 제출 (기한 5월 5일)
-### 과제 제출 문제(과제로 제출하세요, 사용된 데이터 셋의 링크를 반드시 주석으로 코드 시작부분에 넣으세요)
-###제출 e-mail :  digicope@aicore.co.kr
+# AI 기본과정 과제 제출 (기한 5월 5일 , 4월 29일 ~5월 5일까지 휴강입니다)
 
+### 과제 제출 문제(과제로 제출하세요, 사용된 데이터 셋의 링크를 반드시 주석으로 코드 시작부분에 넣으세요)
+
+### 제출 e-mail :  digicope@aicore.co.kr
 
 # LinearRegression 실전 연습 ( 정답 없음 )
 아래 UCI Machine Learning Repository 사이트에서 Regression 데이터를 임의로 선택하여 다운 받아서
