@@ -6,6 +6,8 @@
 
 # 제출파일: 쥬피터 노트북 파일(소스코드에 간단한 주석 설명을 달고 셀 실행 출력 화면 그대로 저장하여 제출하세요)
 
+# 메일에 남은 강의 기간 중 강사에게 당부 혹은 강의에 의견 보내주시기 바랍니다, 본인의 수강 내용 이해  적응 상황을 알려 주시면 감사하겠습니다
+
 # LinearRegression 실전 연습 ( 정답 없음 )
 아래 UCI Machine Learning Repository 사이트에서 Regression 데이터를 임의로 선택하여 다운 받아서
 scikit-learn의 LinearRegression 을 사용하여 학습 시키고 예측과 RMSE를 측정하는 코드를 구현하세요
