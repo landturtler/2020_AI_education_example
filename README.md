@@ -25,8 +25,8 @@ https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&
 * Breast Cancer Wisconsin (Prognostic) Data Set : 위스콘신 대학 유방암 예측
 * Real estate valuation data set Data Set : 부동산 가격 예측
 
-## 쉬는 시간 변경 공지
-4월 27일 부터 시행
+
+
 ### 1일 수업 시간표 ###
  <오전>
 09:00 ~ 09:45
@@ -52,7 +52,7 @@ E-mail : digicope@aicore.co.kr
 
 git 주소 :    https://github.com/digicope/ai04
 
-(사용기간 : 2020.04.13  ~ 2020.05.15)
+# (사용기간 : 2020.04.13  ~ 2020.05.15)
 
 
 ### - GitHub의 쥬피터 노트북 파일 다운로드 방법
