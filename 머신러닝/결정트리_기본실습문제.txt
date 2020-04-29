@@ -1,5 +1,17 @@
 [ 결정 트리 Decision Tree 기본 실습 문제]
 
+http://archive.ics.uci.edu/ml/datasets/Balance+Scale 
+
+balance-scale.csv Attribute Information:
+
+1. Class Name: 3 (L, B, R)
+2. Left-Weight: 5 (1, 2, 3, 4, 5)
+3. Left-Distance: 5 (1, 2, 3, 4, 5)
+4. Right-Weight: 5 (1, 2, 3, 4, 5)
+5. Right-Distance: 5 (1, 2, 3, 4, 5)
+
+
+
 [1] DecisionTreeClassifier 를 이용한 예측 모델 구현
     "balance-scale.csv" 파일을 읽어와서 train 데이터와 test 데이터의 비율을 
     70% 와 30% 비율로 쪼개서 DecisionTreeClassifier 을 사용하여 train 데이터를
