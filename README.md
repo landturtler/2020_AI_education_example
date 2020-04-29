@@ -4,6 +4,8 @@
 
 ### 제출 e-mail :  digicope@aicore.co.kr
 
+# 제출파일: 쥬피터 노트북 파일(소스코드에 간단한 주석 설명을 달고 셀 실행 출력 화면 그대로 저장하여 제출하세요)
+
 # LinearRegression 실전 연습 ( 정답 없음 )
 아래 UCI Machine Learning Repository 사이트에서 Regression 데이터를 임의로 선택하여 다운 받아서
 scikit-learn의 LinearRegression 을 사용하여 학습 시키고 예측과 RMSE를 측정하는 코드를 구현하세요
@@ -12,14 +14,14 @@ scikit-learn의 LinearRegression 을 사용하여 학습 시키고 예측과 RMS
 https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table
 
 [추천 데이터 셋]
-Computer Hardware Data Set : 컴퓨터 하드웨어 상대적 성능 예측
-Wine Quality : Wine 품질 예측
-Solar Flare Data Set : 태양 불꽃 발산 예측
-Forest Fires Data Set : 산불 화재 면적 예측
-Concrete Compressive Strength Data Set : 콘크리트 압축 강도 예측
-Auto MPG Data Set : 자동차 연비 예측(Miles Per Gallon)
-Breast Cancer Wisconsin (Prognostic) Data Set : 위스콘신 대학 유방암 예측
-Real estate valuation data set Data Set : 부동산 가격 예측
+* Computer Hardware Data Set : 컴퓨터 하드웨어 상대적 성능 예측
+* Wine Quality : Wine 품질 예측
+* Solar Flare Data Set : 태양 불꽃 발산 예측
+* Forest Fires Data Set : 산불 화재 면적 예측
+* Concrete Compressive Strength Data Set : 콘크리트 압축 강도 예측
+* Auto MPG Data Set : 자동차 연비 예측(Miles Per Gallon)
+* Breast Cancer Wisconsin (Prognostic) Data Set : 위스콘신 대학 유방암 예측
+* Real estate valuation data set Data Set : 부동산 가격 예측
 
 ## 쉬는 시간 변경 공지
 4월 27일 부터 시행
