@@ -7,21 +7,21 @@
 
 ### \* 쥬피터 노트북에 tensorflow 1.15 설치 방법
 
-##### python =3.7.0  (주의: 3.7.0 이후 버전에서는 설치가 잘 안됨)
+##### python =3.7.2  (주의: 3.7.2 이후 버전에서는 설치가 잘 안됨)
 ##### tensoflow = 1.15
 
 <br>
 
-#### [1] Anaconda 파이썬 버전 변경하기(파이썬 버전이 3.7.0)
+#### [1] Anaconda 파이썬 버전 변경하기(파이썬 버전이 3.7.2)
 
 Anaconda Prompt를 관리자 권한으로 실행하고
-#### conda create -n py370 python=3.7.0 anaconda    # 몇 분 소용됨  
-#### conda activate py370
+#### conda create -n py372 python=3.7.2 anaconda    # 몇 분 소용됨  
+#### conda activate py372
 
 ##### 파이썬 버전 확인 명령
 ##### python -V
 ##### 만일 원래 파이썬 버전으로 다시 사용하고 싶을 때는 deactivate를 실행한다
-##### conda deactivate py370
+##### conda deactivate py372
 <br>
 
 #### [2] Anaconda Prompt를 관리자 권한으로 실행하고 아래 명령을 실행한다
