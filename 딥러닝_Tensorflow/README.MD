@@ -2,7 +2,7 @@
 
 
 
-#### 쥬피터 노트북 tensorflow 1.15 설치 방법
+#### *쥬피터 노트북 tensorflow 1.15 설치 방법
 
 ##### python =3.7.x
 ##### tensoflow = 1.15
