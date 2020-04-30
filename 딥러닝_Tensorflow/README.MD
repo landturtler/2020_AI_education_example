@@ -28,6 +28,7 @@ Anaconda Prompt를 관리자 권한으로 실행하고
 
 #### python -m pip install --upgrade pip
 #### pip3 install tensorflow==1.15
+<br>
 
 #### [3] 쥬피터 노트북 셀에서 에서 아래 코드를 실행시켜 버전을 확인해본다
 
