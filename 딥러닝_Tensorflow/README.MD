@@ -12,16 +12,16 @@
 
 <br>
 
-#### [1] Anaconda 파이썬 버전 변경하기(파이썬 버전이 3.7.2)
+#### [1] Anaconda 파이썬 버전 변경하기(파이썬 버전이 3.7.6)
 
 Anaconda Prompt를 관리자 권한으로 실행하고
-#### conda create -n py372 python=3.7.2 anaconda    # 몇 분 소용됨  
-#### conda activate py372
+#### conda create -n py376 python=3.7.6 anaconda    # 몇 분 소용됨  
+#### conda activate py376
 
 ##### 파이썬 버전 확인 명령
 ##### python -V
 ##### 만일 원래 파이썬 버전으로 다시 사용하고 싶을 때는 deactivate를 실행한다
-##### conda deactivate py372
+##### conda deactivate py376
 <br>
 
 #### [2] Anaconda Prompt를 관리자 권한으로 실행하고 아래 명령을 실행한다
