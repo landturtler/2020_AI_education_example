@@ -10,9 +10,9 @@
 <br>
 
 #### [1] Anaconda 파이썬 버전 변경하기(파이썬 버전이 3.7.x 아래이거나 버전이 낮아 설치 안되는경우만 실행)
-파이썬 버전이 3.7.x 이상인 분은 [2] 번 부터 시작하세요
+#### (파이썬 버전이 3.7.x 이상인 분은 [2] 번 부터 시작하세요)
 
-Anaconda Prompt를 관리자 권한으로 실행하고
+#### Anaconda Prompt를 관리자 권한으로 실행하고
 #### conda create -n py376 python=3.7.6 anaconda    # 몇 분 소용됨  
 #### conda activate py376
 
@@ -24,8 +24,8 @@ Anaconda Prompt를 관리자 권한으로 실행하고
 
 #### [2] Anaconda Prompt를 관리자 권한으로 실행하고 아래 명령을 실행한다
 
-#### python -m pip install --upgrade pip
-#### pip3 install tensorflow==1.15
+### python -m pip install --upgrade pip
+### pip3 install tensorflow==1.15
 <br>
 
 #### [3] 쥬피터 노트북 셀에서 에서 아래 코드를 실행시켜 버전을 확인해본다
@@ -35,8 +35,8 @@ Anaconda Prompt를 관리자 권한으로 실행하고
 ##### print(sys.version)
 
 ##### 텐서플로 버전을 알아본다
-#### import tensorflow as tf
-#### tf.\_\_version\_\_   
+### import tensorflow as tf
+### tf.\_\_version\_\_   
 ##### (주의: 언더바가 두개임) 
 #### '1.15.0' 이 출력되면 설치 성공!!
 <br>
