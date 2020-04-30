@@ -44,7 +44,7 @@ Anaconda Prompt를 관리자 권한으로 실행하고
 #### '1.15.0' 이 출력되면 설치 성공!!
 <br>
 
-#### [Tensorflow] AVX 미지원으로 인한 "DLL 초기화 루틴을 실행할 수 없습니다." 에러 해결방법 <br>
+### AVX 미지원으로 인한 "DLL 초기화 루틴을 실행할 수 없습니다." 에러 해결방법 <br>
 https://datamod.tistory.com/139
 <br>
 
