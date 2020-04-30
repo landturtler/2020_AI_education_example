@@ -26,7 +26,7 @@ https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&
 * Real estate valuation data set Data Set : 부동산 가격 예측
 
 
-
+<br>
 ### 1일 수업 시간표 ###
  <오전>
 09:00 ~ 09:45
@@ -44,7 +44,7 @@ https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&
 
 ###
 ###
-
+<br>
 강사: 고병화
 
 E-mail : digicope@aicore.co.kr
@@ -54,17 +54,20 @@ git 주소 :    https://github.com/digicope/ai04
 
 # (사용기간 : 2020.04.13  ~ 2020.05.15)
 
-
+<br>
 ### - GitHub의 쥬피터 노트북 파일 다운로드 방법
 https://datascience.stackexchange.com/questions/35555/how-to-download-a-jupyter-notebook-from-github
 
 #### git에서 노트북 파일을 클릭하고 --> Raw 버튼 클릭  --> Ctrl + S 로 저장  --> 저장시 확장자 .txt를 없애준다 --> 주피터노트북에서 읽어온다
 
-
+<br>
 #### 쥬피터 노트북 단축키 요약
 https://kkokkilkon.tistory.com/151
 
-
+<br>
+#### 쥬피터 노트북 폰트 변경
+https://kkokkal.tistory.com/1318
+<br>
 #### ------------------------------------------------------------------------------------------------------------------------
 
 ##### [필독] 강의 중 깃허브에서 공유되는 자료는 출판이나 인터넷 공유사이트에서의 무단 게재 시 저작권 문제가 될수 있아오니
