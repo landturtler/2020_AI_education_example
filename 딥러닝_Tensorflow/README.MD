@@ -6,18 +6,21 @@
 
 ##### python =3.7.x  
 ##### tensoflow = 1.15
-
 <br>
 
 #### [1] Anaconda 파이썬 버전 변경하기(파이썬 버전이 3.7.x 아래이거나 버전이 낮아 설치 안되는경우만 실행)
 #### (파이썬 버전이 3.7.x 이상인 분은 [2] 번 부터 시작하세요)
+<br>
 
 #### * Anaconda Prompt를 관리자 권한으로 실행하고
 #### conda create -n py376 python=3.7.6 anaconda    # 몇 분 소용됨  
 #### conda activate py376
+<br>
 
 ##### * 파이썬 버전 확인 명령
 ##### python -V
+<br>
+
 ##### * 만일 원래 파이썬 버전으로 다시 사용하고 싶을 때는 deactivate를 실행한다
 ##### conda deactivate py376
 <br>
@@ -33,6 +36,7 @@
 ##### * 파이썬 버전을 알아본다
 #### import sys
 ##### print(sys.version)
+<br>
 
 ##### * 텐서플로 버전을 알아본다
 #### import tensorflow as tf
@@ -48,9 +52,10 @@ https://datamod.tistory.com/139
 ##### * 사용하고 있는 CPU 기술 탭의 Intel(R) Advanced Vector Extensions지원 여부는
 ##### pidkor47.msi(강사 깃허브에서)
 ##### 혹은 https://downloadcenter.intel.com/ko/download/28539?v=t 에서 다운로드 설치하여 확인힐 수 있다
-
+<br>
+  
 #### * 파이썬 버전을 3.6.8로 추가 설치한다
-Anaconda Prompt를 관리자 권한으로 실행하고
+#### * Anaconda Prompt를 관리자 권한으로 실행하고
 #### conda create -n py368 python=3.6.8 anaconda    # 한시간 이상 소용됨  
 #### conda activate py368
 <br>
