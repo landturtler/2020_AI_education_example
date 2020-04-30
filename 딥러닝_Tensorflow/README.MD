@@ -27,6 +27,11 @@ Anaconda Prompt를 관리자 권한으로 실행하고
 
 #### [3] 쥬피터 노트북 셀에서 에서 아래 코드를 실행시켜 버전을 확인해본다
 
+##### 파이썬 버전을 알아본다
+#### import sys
+##### print(sys.version)
+
+##### 텐서플로 버전을 알아본다
 #### import tensorflow as tf
 #### tf.\_\_version\_\_   
 ##### (주의: 언더바가 두개임) 
