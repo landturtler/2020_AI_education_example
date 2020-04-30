@@ -13,6 +13,7 @@
 <br>
 
 #### [1] Anaconda 파이썬 버전 변경하기(파이썬 버전이 3.7.x 아래이거나 버전이 낮아 설치 안되는경우만 실행)
+파이썬 버전이 3.7.x 이상인 분은 [2] 번 부터 시작하세요
 
 Anaconda Prompt를 관리자 권한으로 실행하고
 #### conda create -n py376 python=3.7.6 anaconda    # 몇 분 소용됨  
