@@ -6,6 +6,13 @@
 ##### python =3.7.4  (주의: 3.7.4 이후 버전에서는 설치안됨)
 ##### tensoflow = 1.15
 
+
+Anaconda 파이썬 버전 변경하기(파이썬 버전이 3.7.4)
+
+Anaconda Prompt를 관리자 권한으로 실행하고
+conda create -n py374 python=3.7.4 anaconda    # 몇 분 소용됨  
+conda activate py374
+
 #### [1] Anaconda Prompt를 관리자 권한으로 실행하고 아래 명령을 실행한다
 
 #### python -m pip install --upgrade pip
