@@ -7,11 +7,13 @@
 ##### tensoflow = 1.15
 
 
-Anaconda 파이썬 버전 변경하기(파이썬 버전이 3.7.4)
+#### Anaconda 파이썬 버전 변경하기(파이썬 버전이 3.7.4)
 
 Anaconda Prompt를 관리자 권한으로 실행하고
-conda create -n py374 python=3.7.4 anaconda    # 몇 분 소용됨  
-conda activate py374
+#### conda create -n py374 python=3.7.4 anaconda    # 몇 분 소용됨  
+#### conda activate py374
+
+<br>
 
 #### [1] Anaconda Prompt를 관리자 권한으로 실행하고 아래 명령을 실행한다
 
