@@ -31,8 +31,6 @@ https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&
 ### 1일 수업 시간표 ### <br>
 
  <오전> <br>
- 
- 09:00 ~ 09:45 <br> 
  09:00 ~ 09:45 <br>  
  10:00 ~ 10:45 <br> 
  11:00 ~ 11:45 <br> 
@@ -40,14 +38,10 @@ https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&
   
  <점심>: 12:30~ 02:00 <br>
 
- <오후> <br>
- 
- 02:00 ~ 02:45 <br>
- 
- 03:00 ~ 03:45 <br>
- 
- 04:00 ~ 04:45 <br>
- 
+ <오후> <br> 
+ 02:00 ~ 02:45 <br> 
+ 03:00 ~ 03:45 <br> 
+ 04:00 ~ 04:45 <br> 
  05:00 ~ 05:40 <br>
 
 ###
