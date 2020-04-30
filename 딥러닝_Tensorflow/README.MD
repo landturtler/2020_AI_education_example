@@ -62,6 +62,9 @@ https://datamod.tistory.com/139
 
 ##### * 파이썬 버전 확인 명령
 ##### python -V
+<br>
+
+#### 텐서플로를 AVX를 지원하지 않는 1.6 보다 낮은 버전(1.5.0)으로 설치 한다
 ##### python -m pip install --upgrade pip
 ##### pip3 install tensorflow==1.5.0
 
