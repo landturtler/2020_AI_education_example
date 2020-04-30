@@ -1,0 +1,6 @@
+.CodeMirror pre {font-family: Consolas;font-size: 14pt;140%;}
+.container { width:100% !important; }
+div.output pre{
+    font-family: Consolas;
+    font-size: 12pt;
+}
