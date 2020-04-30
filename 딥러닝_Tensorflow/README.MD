@@ -1,7 +1,5 @@
 ##  딥러닝(Tensorflow)
 <br>
-<br>
-
 
 ### \* 쥬피터 노트북에 tensorflow 1.15 설치 방법
 
