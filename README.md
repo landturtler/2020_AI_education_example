@@ -27,6 +27,7 @@ https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&
 
 
 <br>
+
 ### 1일 수업 시간표 ###
  <오전>
  09:00 ~ 09:45
@@ -45,6 +46,7 @@ https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&
 ###
 ###
 <br>
+
 #### 강사: 고병화
 #### E-mail : digicope@aicore.co.kr
 #### git 주소 :    https://github.com/digicope/ai04
