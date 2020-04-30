@@ -48,9 +48,13 @@ Anaconda Prompt를 관리자 권한으로 실행하고
 https://datamod.tistory.com/139
 <br>
 
+##### 사용하고 있는 CPU 기술 탭의 Intel(R) Advanced Vector Extensions지원 여부는
+##### pidkor47.msi(강사 깃허브에서)
+##### 혹은 https://downloadcenter.intel.com/ko/download/28539?v=t 에서 다운로드 설치하여 확인힐 수 있다
+
 #### 파이썬 버전을 3.6.8로 추가 설치한다
 Anaconda Prompt를 관리자 권한으로 실행하고
-#### conda create -n py368 python=3.6.8 anaconda    # 몇 분 소용됨  
+#### conda create -n py368 python=3.6.8 anaconda    # 한시간 이상 소용됨  
 #### conda activate py368
 <br>
 
