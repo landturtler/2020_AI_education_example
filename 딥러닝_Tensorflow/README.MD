@@ -13,7 +13,7 @@
 <br>
 
 #### * Anaconda Prompt를 관리자 권한으로 실행하고
-#### conda create -n py376 python=3.7.6 anaconda    # 몇 분 소용됨  
+#### conda create -n py376 python=3.7.6 anaconda    # 몇 분 소요됨  
 #### conda activate py376
 <br>
 
@@ -56,7 +56,7 @@ https://datamod.tistory.com/139
   
 #### * 파이썬 버전을 3.6.8로 추가 설치한다
 #### * Anaconda Prompt를 관리자 권한으로 실행하고
-#### conda create -n py368 python=3.6.8 anaconda    # 한시간 이상 소용됨  
+#### conda create -n py368 python=3.6.8 anaconda    # 몇 분 소요됨  
 #### conda activate py368
 <br>
 
