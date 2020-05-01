@@ -12,6 +12,7 @@ https://hunkim.github.io/ml/
 <br>
 
 # 윈도우에 PyCharm 설치 환경에 텐서플로 1.15.0 설치하기
+#### [참고]    https://webnautes.tistory.com/1173
 
 #### [1] python 3.6.7 설치
 https://www.python.org/downloads/release/python-376/
