@@ -34,7 +34,11 @@ https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows
 #### [3] tensorflow 1.15.0 설치하기
 #### 아래 주소를 참조하여 설치한다 tensorflow를 2.0 버전이 아닌 1.15.0으로 설치 하도록 한다
 ####  https://webnautes.tistory.com/1173
-####  수업 중 강사 지시에 따라 함께 설치하도록 합니다
+<br>
+
+#### PyCharm에서 세 프로젝트를 만들고 하단의 'Terminal'을 눌러 아래와 같이 설치하면 된다
+#### pip3 install tensorflow==1.15
+#### 설치 오류가 날 경우 수업 중 강사 지시에 따라 함께 설치하도록 합니다
 <br>
 
 -------------------------------------------------------------------------------------------------<br>
