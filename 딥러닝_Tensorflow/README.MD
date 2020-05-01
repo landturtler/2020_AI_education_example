@@ -16,7 +16,7 @@ https://hunkim.github.io/ml/
 #### [1] python 3.6.7 설치
 https://www.python.org/downloads/release/python-376/
 #### 사이트에서 하단 Files 목록에서 Windows x86-64 executable installer을 선택 클릭하여
-#### 'python-3.7.6-amd64.exe' 파일이 다운로드된다 
+#### 'python-3.7.6-amd64.exe' 파일을 다운로드 받아 실행 시킨다 
 
 #### 설치 시작 화면에서 맨 아래 'Add Python 3.7 to PATH' 를 체크해주고 'Install Now'를 선택하고 
 #### 다른 옵션 선택없이 그대로 설치를 진행한다
