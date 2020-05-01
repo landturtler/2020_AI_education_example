@@ -12,7 +12,6 @@ https://hunkim.github.io/ml/
 <br>
 
 # 윈도우에 PyCharm 설치 환경에 텐서플로 1.15.0 설치하기
-#### [참고]    https://webnautes.tistory.com/1173
 
 #### [1] python 3.6.7 설치
 https://www.python.org/downloads/release/python-376/
@@ -30,6 +29,13 @@ https://www.python.org/downloads/release/python-376/
 https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows
 #### 에서 오른쪽의 'Community' 의 '다운로드' 버튼을 눌러 'pycharm-community-2020.1.exe' 파일을 다운받아 실행시킨다
 #### 별다른 옵션 없이 그대로 설치해준다
+<br>
+
+#### [3] tensorflow 1.15.0 설치하기
+#### 아래 주소를 참조하여 설치한다 tensorflow를 2.0 버전이 아닌 1.15.0으로 설치 하도록 한다
+####  https://webnautes.tistory.com/1173
+####  수업 중 강사 지시에 따라 함께 설치하도록 합니다
+<br>
 
 -------------------------------------------------------------------------------------------------<br>
 <br>
