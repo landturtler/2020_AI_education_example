@@ -24,7 +24,12 @@ https://www.python.org/downloads/release/python-376/
 
 <br>
 
-#### [2] PyCharm 
+#### [2] PyCharm 다운로드 및 설치
+
+https://www.jetbrains.com/ko-kr/pycharm/download/#section=windows
+#### 에서 오른쪽의 'Community' 의 '다운로드' 버튼을 눌러 'pycharm-community-2020.1.exe' 파일을 다운받아 실행시킨다
+#### 별다른 옵션 없이 그대로 설치해준다
+
 -------------------------------------------------------------------------------------------------<br>
 <br>
 
