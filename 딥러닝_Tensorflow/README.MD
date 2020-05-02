@@ -11,7 +11,7 @@
 
 Andrew Ng’s and other ML tutorials <br>
   https://class.coursera.org/ml-003/lecture <br>
-  http://www.holehouse.org/mlclass/ (note) <br>
+  http://www.holehouse.org/mlclass/  <br> <br>
 Deep Learning Tutorial <br>
   http://deeplearning.stanford.edu/tutorial/
 <br>
