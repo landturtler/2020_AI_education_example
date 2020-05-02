@@ -9,26 +9,26 @@
    https://hunkim.github.io/ml/
 <br>
 
-Andrew Ng’s and other ML tutorials
+Andrew Ng’s and other ML tutorials <br>
   https://class.coursera.org/ml-003/lecture
   http://www.holehouse.org/mlclass/ (note)
-Deep Learning Tutorial
+Deep Learning Tutorial <br>
   http://deeplearning.stanford.edu/tutorial/
 <br>
 
-Convolutional Neural Networks for Visual Recognition
+Convolutional Neural Networks for Visual Recognition <br>
   http://cs231n.stanford.edu/syllabus.html
-Deep Learning for Natural Language Processing
+Deep Learning for Natural Language Processing <br>
   http://cs224d.stanford.edu/syllabus.html
 <br>
 
-Tensorflow
+Tensorflow <br>
   https://www.tensorflow.org
-TensorFlow Tutorials (Simple Examples)
+TensorFlow Tutorials (Simple Examples) <br>
   https://github.com/nlintz/TensorFlow-Tutorials
-Another TensorFlow Tutorials
+Another TensorFlow Tutorials <br>
   https://github.com/pkmital/tensorflow_tutorials
-TensorFlow Examples
+TensorFlow Examples <br>
   https://github.com/aymericdamien/TensorFlow-Examples
 
   
