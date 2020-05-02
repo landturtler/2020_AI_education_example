@@ -11,25 +11,25 @@
 
 Andrew Ng’s and other ML tutorials <br>
   https://class.coursera.org/ml-003/lecture
-  http://www.holehouse.org/mlclass/ (note)
+  http://www.holehouse.org/mlclass/ (note) <br>
 Deep Learning Tutorial <br>
   http://deeplearning.stanford.edu/tutorial/
 <br>
 
 Convolutional Neural Networks for Visual Recognition <br>
-  http://cs231n.stanford.edu/syllabus.html
+  http://cs231n.stanford.edu/syllabus.html <br>
 Deep Learning for Natural Language Processing <br>
   http://cs224d.stanford.edu/syllabus.html
 <br>
 
 Tensorflow <br>
-  https://www.tensorflow.org
+  https://www.tensorflow.org <br>
 TensorFlow Tutorials (Simple Examples) <br>
-  https://github.com/nlintz/TensorFlow-Tutorials
+  https://github.com/nlintz/TensorFlow-Tutorials <br>
 Another TensorFlow Tutorials <br>
-  https://github.com/pkmital/tensorflow_tutorials
+  https://github.com/pkmital/tensorflow_tutorials <br>
 TensorFlow Examples <br>
-  https://github.com/aymericdamien/TensorFlow-Examples
+  https://github.com/aymericdamien/TensorFlow-Examples <br>
 
   
 -------------------------------------------------------------------------------------------------<br>
