@@ -3,11 +3,35 @@
 <br>
 -------------------------------------------------------------------------------------------------<br>
 
-### 딥러닝 강좌
-#### 모두를 위한 머신러닝과 딥러닝의 강의(김성훈교수님)
+### 머신러닝과 딥러닝 강좌 사이트
 
-https://hunkim.github.io/ml/
+모두를 위한 머신러닝과 딥러닝의 강의(김성훈교수님)
+   https://hunkim.github.io/ml/
+<br>
 
+Andrew Ng’s and other ML tutorials
+  https://class.coursera.org/ml-003/lecture
+  http://www.holehouse.org/mlclass/ (note)
+Deep Learning Tutorial
+  http://deeplearning.stanford.edu/tutorial/
+<br>
+
+Convolutional Neural Networks for Visual Recognition
+  http://cs231n.stanford.edu/syllabus.html
+Deep Learning for Natural Language Processing
+  http://cs224d.stanford.edu/syllabus.html
+<br>
+
+Tensorflow
+  https://www.tensorflow.org
+TensorFlow Tutorials (Simple Examples)
+  https://github.com/nlintz/TensorFlow-Tutorials
+Another TensorFlow Tutorials
+  https://github.com/pkmital/tensorflow_tutorials
+TensorFlow Examples
+  https://github.com/aymericdamien/TensorFlow-Examples
+
+  
 -------------------------------------------------------------------------------------------------<br>
 <br>
 
