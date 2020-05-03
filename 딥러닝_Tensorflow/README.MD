@@ -151,7 +151,7 @@ https://datamod.tistory.com/139
 #### pip3 install tensorflow==2.1.0
 <br>
 
-#### 설치가 완료되면 윈도우 시작메뉴의 'Anaconda3 (64-bit)' 안의   'Jupyter notebook (tf210)'을 실행시킨다
+#### 설치가 완료되면 윈도우 시작메뉴의 'Anaconda3 (64-bit)' 안의   'Jupyter Notebook (tf210)'을 실행시킨다
 #### 아래 코드를 실행 시켜 버전을 확인해 본다
 #### import sys
 #### sys.version
@@ -159,8 +159,8 @@ https://datamod.tistory.com/139
 #### tf.__version__
 <br>
 
-#### (tensorflow 1.x 소스코드는 2.0가 호환되지 않는게 많아서 실행오류가 날것이다)
-#### https://www.tensorflow.org/overview/?hl=ko
-#### 의 예제소스를 복사하여 붙여넣어 실행시켜본디
+#### (tensorflow 버전 1.x 용 소스코드는 버전 2.x와 호환되지 않는게 API가 많아서 실행 오류가 날 것이다)
+####  https://www.tensorflow.org/overview/?hl=ko
+#### 의 2.x 예제 소스를 복사하여 붙여 넣어 실행 시켜본다
 
 -------------------------------------------------------------------------------------------------<br>
