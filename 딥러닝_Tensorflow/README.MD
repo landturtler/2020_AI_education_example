@@ -30,6 +30,7 @@ Another TensorFlow Tutorials <br>
   https://github.com/pkmital/tensorflow_tutorials <br>
 TensorFlow Examples <br>
   https://github.com/aymericdamien/TensorFlow-Examples <br>
+<br>
 
 ### Google Colab(코랩) 사용법 (GPU 무료 사용 가능)
 #### https://theorydb.github.io/dev/2019/08/23/dev-ml-colab/  <br>
