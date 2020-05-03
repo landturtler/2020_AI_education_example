@@ -21,7 +21,13 @@
 
 - graphviz    
     https://graphviz.gitlab.io/_pages/Download/Download_windows.html
-    
+
+### 캐글 신용카드 사기 검출(Credit Card Fraud Detection) 데이터 셋
+#### https://www.kaggle.com/mlg-ulb/creditcardfraud
+#### 에서 구글계정 등으로 가입하여 로그인 하고 우측상단의  'Download (144 MB)'을 눌러 
+#### creditcardfraud.zip 파일을 다운받아서 압축을 해제하여 소스 디렉토리에 옮겨 놓는다 creditcard.csv(약 143 MB)
+<br>
+
 #### 딥러닝 강좌  
 
 - 모두를 위한 머신러닝과 딥러닝의 강의(김성훈교수님)
