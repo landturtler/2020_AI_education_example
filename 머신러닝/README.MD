@@ -21,6 +21,7 @@
 
 - graphviz    
     https://graphviz.gitlab.io/_pages/Download/Download_windows.html
+    <
 
 #### * 캐글 신용카드 사기 검출(Credit Card Fraud Detection) 데이터 셋
 #### https://www.kaggle.com/mlg-ulb/creditcardfraud
