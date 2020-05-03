@@ -26,7 +26,7 @@
 #### https://www.kaggle.com/mlg-ulb/creditcardfraud
 #### 에서 구글계정 등으로 가입하여 로그인 하고 우측상단의  'Download (144 MB)'을 눌러 
 #### creditcardfraud.zip 파일을 다운받아서 압축을 해제하여 소스 디렉토리에 옮겨 놓는다 
-creditcard.csv(약 143 MB)  ==> LMS에 올려져 있습니다
+#### creditcard.csv(약 143 MB)  ==> LMS에 올려져 있습니다
 <br>
 
 #### 딥러닝 강좌  
