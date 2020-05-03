@@ -142,23 +142,24 @@ https://datamod.tistory.com/139
 ----------------------------------------------------------------------------------------------------------<br>
 <br>
 
-Anaconda 텐서플로 버전 2.1.0 설치 가상 환경 만들기
+## Anaconda 텐서플로 버전 2.1.0 설치 가상 환경 만들기
 
-[1] * Anaconda Prompt를 관리자 권한으로 실행하고
-conda create -n tf210 python=3.7 anaconda  
-conda activate tf210
-python -m pip install --upgrade pip
-pip3 install tensorflow==2.1.0
+###  Anaconda Prompt를 관리자 권한으로 실행하고
+#### conda create -n tf210 python=3.7 anaconda  
+#### conda activate tf210
+#### python -m pip install --upgrade pip
+#### pip3 install tensorflow==2.1.0
+<br>
 
-설치가 완료되면 윈도우 시작메뉴의 'Anaconda3 (64-bit)' 안의   'Jupyter notebook (tf210)을 실행시킨다
-아래 코드를 실행 시켜 버전을 확인해 본다
-import sys
-sys.version
+#### 설치가 완료되면 윈도우 시작메뉴의 'Anaconda3 (64-bit)' 안의   'Jupyter notebook (tf210)을 실행시킨다
+#### 아래 코드를 실행 시켜 버전을 확인해 본다
+#### import sys
+#### sys.version
+#### import tensorflow as tf
+#### tf.__version__
+<br>
 
-import tensorflow as tf
-tf.__version__
-
-(tensorflow 1.x 소스코드는 2.0가 호환되지 않는게 많아서 실행오류가 날것이다)
-https://www.tensorflow.org/overview/?hl=ko
-의 예제소스를 복사하여 붙여넣어 실행시켜본디
+#### (tensorflow 1.x 소스코드는 2.0가 호환되지 않는게 많아서 실행오류가 날것이다)
+#### https://www.tensorflow.org/overview/?hl=ko
+#### 의 예제소스를 복사하여 붙여넣어 실행시켜본디
 
