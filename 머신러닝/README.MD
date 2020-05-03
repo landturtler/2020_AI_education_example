@@ -22,6 +22,12 @@
 - graphviz    
     https://graphviz.gitlab.io/_pages/Download/Download_windows.html
 
+#### 딥러닝 강좌  
+
+- 모두를 위한 머신러닝과 딥러닝의 강의(김성훈교수님)
+
+    https://hunkim.github.io/ml/
+
 <br>
 
 #### * 캐글 신용카드 사기 검출(Credit Card Fraud Detection) 데이터 셋
@@ -31,11 +37,6 @@
 #### creditcard.csv(약 143 MB)  ==> LMS에 올려져 있습니다
 <br>
 
-#### 딥러닝 강좌  
-
-- 모두를 위한 머신러닝과 딥러닝의 강의(김성훈교수님)
-
-    https://hunkim.github.io/ml/
 ##### ====================================================================================
 #### 
 ### 인공지능의 역사 : 신경망(DNN,Deep Neural Net) 역사
