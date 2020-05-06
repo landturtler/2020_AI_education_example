@@ -1,5 +1,5 @@
 * Classification 실전 연습 과제 
-아래 UCI Machine Learning Repository 사이트에서 Regression 데이터를 임의로 선택하여 다운 받아서 scikit-learn의 
+아래 UCI Machine Learning Repository 사이트에서 분류(classification) 데이터를 임의로 선택하여 다운 받아서 scikit-learn의 
 앙상블 모델을 사용하여 학습 시키고 예측과 평가 지표를 구하는  코드를 구현하세요 
 학습모델을 구현하고 예측하여 정확도와 정밀도, 재현율,F1-score, roc_auc 를 출력한다
 
