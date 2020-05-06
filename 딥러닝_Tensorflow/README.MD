@@ -1,8 +1,8 @@
 ##  딥러닝(Tensorflow)
 <br>
-<br>
+
 -------------------------------------------------------------------------------------------------<br>
-#### Tensorflow_1.x pdf 링크 slack url
+### Tensorflow_1.x pdf 링크 slack url
 <br>
 https://files.slack.com/files-pri/T011PJX2C75-F0134V5AD6W/tensorflow_1.x.pdf
 <br>
