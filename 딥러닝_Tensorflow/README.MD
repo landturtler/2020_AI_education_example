@@ -2,8 +2,9 @@
 <br>
 <br>
 -------------------------------------------------------------------------------------------------<br>
-#### 교재 링크 slack url
-https://files.slack.com/files-pri/T011PJX2C75-F013B4AUT0C/_____________________________1.x.pdf
+#### Tensorflow_1.x pdf 링크 slack url
+<br>
+https://files.slack.com/files-pri/T011PJX2C75-F0134V5AD6W/tensorflow_1.x.pdf
 <br>
 
 ### 머신러닝과 딥러닝 강좌 참고 사이트
