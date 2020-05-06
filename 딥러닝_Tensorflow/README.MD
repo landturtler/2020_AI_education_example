@@ -6,8 +6,8 @@ https://files.slack.com/files-pri/T011PJX2C75-F0134V5AD6W/tensorflow_1.x.pdf
 <br>
 
 ### tensorflow 1.x warning 메세지 끄는 
-import tensorflow as tf
-old_v = tf.compat.v1.logging.get_verbosity()
+import tensorflow as tf <br>
+old_v = tf.compat.v1.logging.get_verbosity() <br>
 tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
 <br>
 
