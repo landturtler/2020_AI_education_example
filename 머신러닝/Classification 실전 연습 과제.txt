@@ -4,8 +4,6 @@
 학습모델을 구현하고 예측하여 정확도와 정밀도, 재현율,F1-score, roc_auc 를 출력한다
 
 [옵션] 강사메일로 제출하시면 검토해보고 수정 필요할 경우에 답장 드리겠습니다
-
-
 https://archive.ics.uci.edu/ml/datasets.php?format=&task=cla&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table
 
 [추천 데이터 셋]
