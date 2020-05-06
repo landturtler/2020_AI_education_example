@@ -5,10 +5,14 @@
 https://files.slack.com/files-pri/T011PJX2C75-F0134V5AD6W/tensorflow_1.x.pdf
 <br>
 
-### tensorflow 1.x warning 메세지 끄는 
+### tensorflow 1.x warning 메세지 끄는 방법
 import tensorflow as tf <br>
 old_v = tf.compat.v1.logging.get_verbosity() <br>
 tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
+<br>
+
+### 기존 코드를 TensorFlow 2.0으로 바꾸기
+https://www.tensorflow.org/guide/migrate?hl=ko
 <br>
 
 ### 머신러닝과 딥러닝 강좌 참고 사이트
