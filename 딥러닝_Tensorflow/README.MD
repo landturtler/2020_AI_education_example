@@ -1,9 +1,14 @@
 ##  딥러닝(Tensorflow)
-<br>
 
 -------------------------------------------------------------------------------------------------<br>
 ### Tensorflow_1.x pdf 링크 slack url
 https://files.slack.com/files-pri/T011PJX2C75-F0134V5AD6W/tensorflow_1.x.pdf
+<br>
+
+### tensorflow 1.x warning 메세지 끄는 
+import tensorflow as tf
+old_v = tf.compat.v1.logging.get_verbosity()
+tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
 <br>
 
 ### 머신러닝과 딥러닝 강좌 참고 사이트
