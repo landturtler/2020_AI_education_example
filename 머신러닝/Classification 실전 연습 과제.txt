@@ -1,0 +1,20 @@
+* Classification 실전 연습 과제 
+아래 UCI Machine Learning Repository 사이트에서 Regression 데이터를 임의로 선택하여 다운 받아서 scikit-learn의 
+앙상블 모델을 사용하여 학습 시키고 예측과 평가 지표를 구하는  코드를 구현하세요 
+학습모델을 구현하고 예측하여 정확도와 정밀도, 재현율,F1-score, roc_auc 를 출력한다
+
+[옵션] 강사메일로 제출하시면 검토해보고 수정 필요할 경우에 답장 드리겠습니다
+
+
+https://archive.ics.uci.edu/ml/datasets.php?format=&task=cla&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table
+
+[추천 데이터 셋]
+
+Balance Scale Data Set : 저울 균형 분류 예측 
+Breast Cancer Data Set : 유방암 진단 분류 예측
+Car Evaluation Data Set : 자동차 가치 분류 예측
+Congressional Voting Records Data Set : 의회 투표 기록에 따른 소속 당 분류 예측
+Diabetic Retinopathy Debrecen Data Set Data Set : 당뇨 망막증 진단 예측
+Heart Disease Data Set : 심장 질환 진단 예측
+Occupancy Detection Data Set : 환경 시설에 따른 오피스 룸 점유 상태 분류 예측
+Perfume Data Data Set : 향수 분류 예측
