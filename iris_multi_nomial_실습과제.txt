@@ -1,0 +1,15 @@
+* 과제 : iris multi-nomial classification 실습
+배포된 iris.csv 파일을 numpy로 읽어서 분류하는 프로그램을 
+구현한다
+
+전체 데이터 : [151,6]
+train data :  105개, X:[100,4] ,Y:[100,1],
+		 각  species마다 35개씩 추출
+test data : 45개, X:[50,4] ,Y:[50,1],Accuracy 값을 출력한다,  
+             각 species마다 15개씩 추출
+
+<species>
+setosa : 0
+versicolor : 1
+virginica : 2
+ 
