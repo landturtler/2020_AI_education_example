@@ -5,7 +5,12 @@
 https://files.slack.com/files-pri/T011PJX2C75-F013WLT100G/tensorflow_1.x.pdf
 <br>
 
-### tensorflow 1.x warning 메세지 끄는 방법
+### tensorflow 1.x : Could not load dynamic library 'cudart64_100.dll' 메세지 끄는 방법
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+<br>
+
+### tensorflow 1.x : 구버전 API의 deprecated warning 메세지 끄는 방법
 import tensorflow as tf <br>
 old_v = tf.compat.v1.logging.get_verbosity() <br>
 tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.ERROR)
