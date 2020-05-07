@@ -52,7 +52,7 @@ TensorFlow Examples <br>
 
 # 윈도우에 PyCharm 설치 환경에 텐서플로 1.15.0 설치하기
 
-#### [1] python 3.6.7 설치
+#### [1] python 3.7.6 설치
 https://www.python.org/downloads/release/python-376/
 #### 사이트에서 하단 Files 목록에서 Windows x86-64 executable installer을 선택 클릭하여
 #### 'python-3.7.6-amd64.exe' 파일을 다운로드 받아 실행 시킨다 
