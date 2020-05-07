@@ -1,5 +1,5 @@
 * 과제 : iris multi-nomial classification 실습
-배포된 iris.csv 파일을 numpy로 읽어서 분류하는 프로그램을 
+배포된 iris.csv 파일을 numpy로 읽어서 텐서플로 분류 모델을 
 구현한다
 
 전체 데이터 : [151,6]
