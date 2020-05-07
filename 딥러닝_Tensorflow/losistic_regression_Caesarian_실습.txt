@@ -1,4 +1,4 @@
-* losistic_regression_Caesarian_실습 과제
+* logistic_regression_Caesarian_실습 과제
 
 연령,분만횟수,분만시기,혈압, 심장 질환 데이터를 사용하여
 Caesarian(제왕절개) 를 예측하는 텐서플로 코드를 구현하세요
@@ -104,3 +104,5 @@ We classify delivery time to Premature, Timely and Latecomer. As like the delive
 29,2,1,2,0,1
 25,1,2,0,0,1
 24,2,2,1,0,0
+
+
