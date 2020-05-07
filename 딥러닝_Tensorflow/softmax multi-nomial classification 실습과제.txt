@@ -1,12 +1,16 @@
-* °úÁ¦ : softmax multi-nomial classification ½Ç½À
-¼Ò½º¸íÀº softmax_zoo_multi_classification.py
-data-04-zoo.csv ¸¦ numpy·Î ÀÐ¾î¼­
-1~19 Çà : ÁÖ¼®¹®
-ÃÑ 101°³ µ¥ÀÌÅÍ Çà
-train data : 71°³
-test data :  30°³ »ç¿ë ÇØ¼­ ¿¹ÃøÇÏ¿© Accuracy Ãâ·Â
+* ê³¼ì œ : softmax multi-nomial classification ì‹¤ìŠµ
 
-ÈùÆ®:one-hot encodingÀ¸·Î µ¥ÀÌÅÍº¯È¯ 3 --> [ 0,0,0,1,0,0,0]
+ì†ŒìŠ¤ëª…ì€ softmax_zoo_multi_classification.py
+
+data-04-zoo.csv ë¥¼ numpyë¡œ ì½ì–´ì„œ ì•„ëž˜ ì§€ì‹œëŒ€ë¡œ í…ì„œí”Œë¡œ ë¶„ë¥˜ ëª¨ë¸ì„ êµ¬í˜„í•œë‹¤
+
+1~19 í–‰ : ì£¼ì„ë¬¸
+ì´ 101ê°œ ë°ì´í„° í–‰
+train data : 71ê°œ
+test data :  30ê°œ ì‚¬ìš© í•´ì„œ ì˜ˆì¸¡í•˜ì—¬ Accuracy ì¶œë ¥
+
+[ížŒíŠ¸]
+one-hot encodingìœ¼ë¡œ ë°ì´í„°ë³€í™˜ 3 --> [ 0,0,0,1,0,0,0]
 nb_classes = 7
 Y_one_hot = tf.one_hot(Y, nb_classes)  # [None,1,7]
 print(Y_one_hot )
