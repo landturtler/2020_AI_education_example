@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------------------------<br>
 ### Tensorflow_1.x pdf 링크 slack url
-https://files.slack.com/files-pri/T011PJX2C75-F0134V5AD6W/tensorflow_1.x.pdf
+https://ai-vmu3769.slack.com/files/U0123URKRU1/F013WLT100G/tensorflow_1.x.pdf
 <br>
 
 ### tensorflow 1.x warning 메세지 끄는 방법
