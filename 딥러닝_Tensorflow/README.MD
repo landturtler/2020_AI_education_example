@@ -6,7 +6,7 @@ https://files.slack.com/files-pri/T011PJX2C75-F013WLT100G/tensorflow_1.x.pdf
 <br>
 
 ### tensorflow 1.x : Could not load dynamic library 'cudart64_100.dll' 메세지 끄는 방법
-import os
+import os <br>
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 <br>
 
