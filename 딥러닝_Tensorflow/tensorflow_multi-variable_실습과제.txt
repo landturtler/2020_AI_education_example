@@ -1,0 +1,16 @@
+* multi-variable tensorflow 실습과제
+과제 - 1 :  multi-variable tensorflow와 MySQL DB 연동
+ 
+data-01-test-score.csv을  읽어 4개의 점수와 함께
+4개 점수(quiz1,quiz2,midterm,final)의 합계와 평균을
+구하여 MySQL DB 에 
+새로운 테이블 total,average를 추가하여 score001 DB로 
+저장한다
+score001 DB에서 20개만 읽어서 학습시키고 
+나머지 후반부 5개를 읽어서 예측한다
+예측한 결과와 답을  오차값과 함께  출력시키고
+평균 오차를 구하고  DB에 cost 테이블을 추가로 만들어 
+저장한다
+
+
+

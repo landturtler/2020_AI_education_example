@@ -1,0 +1,25 @@
+* Boston 시의 주택가격 예측 Linear Regression 구현
+주어진 csv 파일을 사용하여
+Boston 시의 주택가격을 예측하는 tensorflow 프로그램을
+작성하세요
+9개의 데이터를 사용하여 주택가격을 예측하는 
+multi-variable linear regression 구현
+
+* 사용되는 입력변수 목록
+crim : per capita crime rate by town 
+zn  : proportion of residential land zoned for lots over 25,000 sq.ft.  
+indus   :proportion of non-retail business acres per town.  
+nox :  nitric oxides concentration  
+rm : average number of rooms per dwelling  
+age :  proportion of owner-occupied units built before 1940  
+dis  : weighted distances to five Boston employment centers  
+tax :  full-value property-tax rate per dollars 10,000  
+ptratio :  pupil-teacher ratio by town  
+medv  : Median value of owner-occupied homes in thousand dollars  
+        주택가격, 우리가 예측할 값이다
+
+* 제공되는 csv 파일 설명
+boston_train.csv :  Train the model and obtain the weights  [400, 10]  
+boston_test.csv :  Evaluate the performance of the model on unseen data  [100, 10]  
+boston_predict.csv :  Use the model to predict house value on new data  [6, 10]  
+
