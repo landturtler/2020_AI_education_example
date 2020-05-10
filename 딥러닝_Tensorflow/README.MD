@@ -53,8 +53,8 @@ TensorFlow Examples <br>
 #### https://theorydb.github.io/dev/2019/08/23/dev-ml-colab/  <br>
 
 #### 코랩에서 텐서플로 버전 변경하기(2.x --> 1.15)
-!pip uninstall tensorflow
-!pip install tensorflow==1.15
+!pip uninstall tensorflow  <br>
+!pip install tensorflow==1.15 <br>
 
 -------------------------------------------------------------------------------------------------<br>
 <br>
