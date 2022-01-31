@@ -1,4 +1,4 @@
-#  :dart: AI이노베이션스퀘어 기본과정(전일반) 실습 repositoy 
+#  :dart: AI이노베이션스퀘어 기본과정(전일반) 실습 repository 
 ![ai이노베이션](https://user-images.githubusercontent.com/48278519/151746965-de5cfde8-4c96-49a7-a236-cf36ec3cc635.png)
 
 
