@@ -1,32 +1,9 @@
-# 강사용 깃허브는 5월 15일 까지만 접근가능합니다 
-### ==============================================================
-### 이후 접근이 불가능하므로 자료를 기간 전에 모두 받아 놓으시기 바랍니다
-### 깃 우측 상단에 있는 "Clone or download"를 누르고
-### [Download ZIP] 을 누르면 하위 폴더까 전체를 압축하여 한번에 다운로드가 가능합니다
-### ==============================================================
-<br>
-<br>
-<br>
-
-#### AI 기본과정 과제 제출 (기한 5월 5일 , 4월 30일 ~5월 5일까지 휴강입니다)
-
-#### 과제 제출 문제(과제로 제출하세요, 사용된 데이터 셋의 링크를 반드시 주석으로 코드 시작부분에 넣으세요)
-
-#### 제출 e-mail :  digicope@aicore.co.kr 
+#  :dart: AI이노베이션스퀘어 기본과정(전일반) 실습 repositoty 
+![ai이노베이션](https://user-images.githubusercontent.com/48278519/151746965-de5cfde8-4c96-49a7-a236-cf36ec3cc635.png)
 
 
-#### 제출파일: 쥬피터 노트북 파일(소스코드에 간단한 주석 설명을 달고 셀 실행 출력 화면 그대로 저장하여 제출하세요)
-
-#### 메일에 남은 강의 기간 중 강사에게 당부 혹은 강의 관련 의견 보내주시기 바랍니다, 본인의 수강 내용 이해  적응 상황을 알려 주시면 감사하겠습니다
-
-#### LinearRegression 실전 연습 ( 정답 없음 )
-아래 UCI Machine Learning Repository 사이트에서 Regression 데이터를 임의로 선택하여 다운 받아서
-scikit-learn의 LinearRegression 을 사용하여 학습 시키고 예측과 RMSE를 측정하는 코드를 구현하세요
-학습모델을 구현하고 예측하여 RMSE와 R2 score를 출력한다
-
-https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table
-
-[추천 데이터 셋]
+## =======================================================
+### [추천 데이터 셋]
 * Computer Hardware Data Set : 컴퓨터 하드웨어 상대적 성능 예측
 * Wine Quality : Wine 품질 예측
 * Solar Flare Data Set : 태양 불꽃 발산 예측
@@ -39,8 +16,8 @@ https://archive.ics.uci.edu/ml/datasets.php?format=&task=reg&att=&area=&numAtt=&
 
 <br>
 
-### 1일 수업 시간표 ### <br>
-
+### 1일 수업 시간표 ### 
+<br>
  <오전> <br>
  09:00 ~ 09:45 <br>
  10:00 ~ 10:45 <br> 
